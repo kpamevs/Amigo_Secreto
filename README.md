@@ -3,10 +3,10 @@ Challenge Amigo Secreto - Éste desafío se basa en la construcción de un progr
 Introducir un listado de nombres de amigos para jugar al "amigo secreto"; al agregar todos los nombres de los participantes el programa seleccionará un nombre aleatoriamente. 
 Cuenta con un botón de reinicio para Borrar la Lista.
 
-## Enlace del Proyecto: 🚀 ##
+## Enlace del Proyecto ##
 https://github.com/kpamevs/Amigo_Secreto.git
 
-## 📖 Especificaciones / funcionalidad: 🚀 ##
+## Especificaciones / funcionalidad ##
 - Los nombres de amigos se agregan al listado con Enter.
 - Si no se ingresa un nombre y se da clic en los botones: Añadir o Sortear amigo, aparece un alert respectivamente debido a la falta de datos. 
 - El botón Borrar Lista estará inactivo si no hay nombres de amigos añadidos en el listado.
@@ -16,11 +16,11 @@ https://github.com/kpamevs/Amigo_Secreto.git
 - Si el usuario ingresa un nombre repetido, el programa le solicitará agregar un segundo nombre o apellido.
 - No se acepta incluir en los nombres: caracteres especiales, espacio al final o números; aparecerá un alert respectivo.
 
-## Pre-requisitos: ⚙️ ##
+## Requisitos ##
 - Para visualización y funcionalidad: Usar un navegador web, como: Chrome, Mozilla, Opera o Edge. Clic derecho en el archivo index.html (abrir con el navegador).
 - Adicional para Edición: Instalar VSC - Visual Studio Code u otro editor de texto.
 
-## Construido con: 🛠️ ##
+## Hecho con ##
 - HTML
 - CSS
 - JavaScript
